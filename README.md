@@ -18,6 +18,6 @@ You can create a new account by clicking [sign-up](https://quiet-island-65599.he
 ---
 ### Status
 * This project is complete, but there are still new ways/features that cam be implemented to improve it.
---
-Rails app generated with [lewagon/rails-templates](https://github.com/lewagon/rails-templates), created by the [Le Wagon coding bootcamp](https://www.lewagon.com) team.
 ---
+Rails app generated with [lewagon/rails-templates](https://github.com/lewagon/rails-templates), created by the [Le Wagon coding bootcamp](https://www.lewagon.com) team.
+
