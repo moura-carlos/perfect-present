@@ -11,6 +11,13 @@ This app was created with the intent to help people find the PerfectPresent for 
 * Heroku - Deployment
 * PostgreSQL (Production Environment) & Sqlite3 (Development Environment)
 ---
+Video - Testing the website
+
+
+https://user-images.githubusercontent.com/97359453/213894250-8e6f8c74-0f83-468c-962a-1c9c3e760fd1.mp4
+
+
+---
 ### Do you want to test the app?
 You can create a new account by clicking [sign-up](https://quiet-island-65599.herokuapp.com/users/sign_up) or [login](https://quiet-island-65599.herokuapp.com/users/sign_in) using the following account information:
 > Email: carlos@example.com\
