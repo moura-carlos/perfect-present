@@ -11,7 +11,7 @@ This app was created with the intent to help people find the PerfectPresent for 
 * Heroku - Deployment
 * PostgreSQL (Production Environment) & Sqlite3 (Development Environment)
 ---
-Video - Testing the website
+### [Video](https://www.loom.com/share/c15a2726e16c4040b2c0d2709b40ed78) - Testing the website
 
 
 https://user-images.githubusercontent.com/97359453/213894250-8e6f8c74-0f83-468c-962a-1c9c3e760fd1.mp4
